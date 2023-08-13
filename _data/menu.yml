@@ -3,28 +3,15 @@
 
 entries:
   - title: About 
-    url: about.html
-    #    entries:
-    #      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-    #      - title: github repo
-    #        url: https://github.com/riggraz/no-style-please
-    #      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-    #
+    url: about
 
   - title: Posts
     post_list:
       limit: 3
       show_more: true
       show_more_text: See archive...
-      show_more_url: archive.html
-
-        #  - title: posts by category
-        #    post_list:
-        #      category: example2
-        #      show_more: true
-        #      show_more_text: See more posts...
-        #      show_more_url: example2-archive.html
-  
+      show_more_url: archive
+      
   - title: Contact
     entries:
       - title: mail
